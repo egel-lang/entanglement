@@ -1,2 +1,4 @@
 # entanglement
-entanglement
+
+Dabbling with QM entanglement
+
