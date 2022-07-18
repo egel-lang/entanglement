@@ -13,7 +13,7 @@ M.C.A. (Marco) Devillers
 
 ![](coin.gif)
 
-the behavior the system can be described as:
+the behavior of the system can be described as:
 
 $$ |\Psi\rangle = \frac{1}{\sqrt{2}} (|h\rangle - |t\rangle) $$
 
