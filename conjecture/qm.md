@@ -27,6 +27,6 @@ the system doesn't have a definite state
 
 instead of: locality and realism cannot both hold 
 
-**Conjecture** locality and realism hold assuming time-dependent states
+**Conjecture** locality and realism hold assuming time-dependent 'oscillating' states
 
 
