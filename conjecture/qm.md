@@ -31,7 +31,7 @@ instead of: locality and realism cannot both hold
 
 ---
 
-# Progress
+# End of Pitch
 
-![70%](cat.gif)
+![w:300px h:450px](cat.gif)
 
