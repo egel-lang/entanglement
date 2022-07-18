@@ -29,4 +29,7 @@ instead of: locality and realism cannot both hold
 
 **Conjecture** locality and realism hold assuming time-dependent 'oscillating' states
 
+# Progress
+
+![](cat.gif)
 
