@@ -61,15 +61,17 @@ instead of: locality and realism cannot both hold
 
 # The metamathical argument
 
-left a spinning coin, right a coin in superposition
-
 <div class="twocols">
 
 ![](coin.gif)
 
+a spinning coin
+
 <p class="break"></p>
 
 [ ![](head.gif) + ![](tail.gif) ]
+
+a coin in superposition
 
 </div>
 
