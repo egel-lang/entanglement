@@ -117,5 +117,7 @@ by assuming a collapse from a definite state to a definite value Bell shows that
 
 ----
 
+![](work.jpg) 
+
 # CHSH inequality
 
