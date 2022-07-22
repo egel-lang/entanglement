@@ -3,6 +3,26 @@ theme: default
 paginate: true
 ---
 
+<style>
+div.twocols {
+  margin-top: 35px;
+  column-count: 2;
+}
+div.twocols p:first-child,
+div.twocols h1:first-child,
+div.twocols h2:first-child,
+div.twocols ul:first-child,
+div.twocols ul li:first-child,
+div.twocols ul li p:first-child {
+  margin-top: 0 !important;
+}
+div.twocols p.break {
+  break-before: column;
+  margin-top: 0;
+}
+</style>
+
+
 # That QM Entanglement Thing
 
 M.C.A. (Marco) Devillers
@@ -34,14 +54,30 @@ instead of: locality and realism cannot both hold
 # Three arguments for 'oscillating' states
 
 1. Metamathical: the difference between superposition and 'oscillation' is neglible
-2, The math allows for 'oscillating' states
+2. The math allows for 'oscillating' states
 3. There's a physical model satisfying Bell's inequality
 
 ----
 
 # The metamathical argument
 
-Left a spinning coin, right a coin in superposition
+left a spinning coin, right a coin in superposition
+
+<div class="twocols">
+
+![](coin.gif)
+
+<p class="break"></p>
+
+[ ![](head.gif) + ![](tail.gif) ]
+
+</div>
+
+flipping the coin or collapsing the wave function is a neglible difference
+
+superposition for this system can be seen as abstracting from the time component
+
+superposition and oscillating between states can be made indistinguishable
 
 
 ----
