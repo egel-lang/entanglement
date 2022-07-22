@@ -112,7 +112,7 @@ Bell isn't wrong in assuming a definite state (that could also be a probability 
 
 Bell is wrong is assuming a definite state _results_ in a definite measurement
 
-to prove 'spooky action at a distance' show that changing $a$ measurements changes the distribution at $b$
+prove 'spooky action at a distance': show changing $a$ changes the distribution at $b$
 
 ----
 
