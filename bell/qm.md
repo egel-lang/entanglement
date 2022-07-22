@@ -95,7 +95,9 @@ $$ P(\vec{a}, \vec{b}) = \int d\lambda\, \rho(\lambda) A(\vec{a}, \lambda) B(\ve
 
 where $\rho(\lambda)$ is a probability density function
 
-_note_: Bell's argument is indifferent to a superposition v. 'oscillation' debate
+_note_: Bell's argument is mostly indifferent to a superposition v. 'oscillation' debate
+
+_note_: but we need to talk about the _probability_ of observing a property for each detector
 
 ----
 
