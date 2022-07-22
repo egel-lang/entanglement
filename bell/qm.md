@@ -107,11 +107,11 @@ however, the probability of observing a property for each detector is replaced w
 
 by assuming a collapse from a definite state to a definite value Bell shows that QM superposition or 'oscillating' states defy his inequality
 
-*Conjecture A* Bell isn't wrong in assuming a definite state (could encode a probability distribution)
+**Conjecture A** Bell isn't wrong in assuming a definite state (could encode a probability distribution)
 
-*Conjecture B* Bell is wrong in assuming a definite state _results_ in a definite measurement
+**Conjecture B** Bell is wrong in assuming a definite state _results_ in a definite measurement
 
-*Conjecture C* prove 'spooky action at a distance': show changing $a$ changes the distribution at $b$
+**Conjecture C** prove 'spooky action at a distance': show changing $a$ changes the distribution at $b$
 
 ----
 
