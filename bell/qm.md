@@ -85,13 +85,17 @@ superposition and oscillating between states can be made indistinguishable
 
 # Going back to Bell
 
+the quantum-mechanical prediction for the correlation between two detectors is
+
 $$ P(\vec{a}, \vec{b}) = - \vec{a} \cdot \vec{b} $$
 
 Bell: a local hidden variable model for these correlations would explain them in terms of an integral over the possible values of some hidden parameter $\lambda$:
 
 $$ P(\vec{a}, \vec{b}) = \int d\lambda\, \rho(\lambda) A(\vec{a}, \lambda) B(\vec{b}, \lambda) $$
 
-where $\rho(\lambda)$ is a probability density function.
+where $\rho(\lambda)$ is a probability density function
+
+_note_: Bell's argument is indifferent to a superposition v. 'oscillation' debate
 
 ----
 
