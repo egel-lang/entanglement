@@ -101,5 +101,15 @@ however, the probability of observing a property for each detector is replaced w
 
 ----
 
+# Going back to Bell (2)
+
+by assuming a collapse from a definite state to a definite value Bell shows that
+
+a) the state cannot hold invisible variables (be definite)
+
+b) QM superposition or 'oscillating' states defy his inequality
+
+----
+
 # CHSH inequality
 
