@@ -63,15 +63,15 @@ instead of: locality and realism cannot both hold
 
 <div class="twocols">
 
-![](coin.gif)
+_a spinning coin_
 
-a spinning coin
+![](coin.gif)
 
 <p class="break"></p>
 
-[ ![](head.gif) + ![](tail.gif) ]
+_a coin in superposition_
 
-a coin in superposition
+[ ![](head.gif) + ![](tail.gif) ]
 
 </div>
 
@@ -81,17 +81,19 @@ superposition for this system can be seen as abstracting from the time component
 
 superposition and oscillating between states can be made indistinguishable
 
-
 ----
 
-# Bell
-
-
+# Going back to Bell
 
 $$ P(\vec{a}, \vec{b}) = - \vec{a} \cdot \vec{b} $$
 
-Bell posited that a local hidden variable model for these correlations would explain them in terms of an integral over the possible values of some hidden parameter $\lambda$:
+Bell: a local hidden variable model for these correlations would explain them in terms of an integral over the possible values of some hidden parameter $\lambda$:
 
 $$ P(\vec{a}, \vec{b}) = \int d\lambda\, \rho(\lambda) A(\vec{a}, \lambda) B(\vec{b}, \lambda) $$
 
 where $\rho(\lambda)$ is a probability density function.
+
+~~~~
+
+# CHSH inequality
+
