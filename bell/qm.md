@@ -93,7 +93,7 @@ $$ P(\vec{a}, \vec{b}) = \int d\lambda\, \rho(\lambda) A(\vec{a}, \lambda) B(\ve
 
 where $\rho(\lambda)$ is a probability density function.
 
-~~~~
+----
 
 # CHSH inequality
 
