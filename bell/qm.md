@@ -53,9 +53,9 @@ instead of: locality and realism cannot both hold
 
 # Three arguments for 'oscillating' states
 
-1. Metamathical: the difference between superposition and 'oscillation' is neglible
-2. The math allows for 'oscillating' states
-3. There's a physical model satisfying Bell's inequality
+1. metamathical: the difference between superposition and 'oscillation' is neglible
+2. the math allows for 'oscillating' states
+3. there's a physical model satisfying Bell's inequality
 
 ----
 
@@ -105,9 +105,8 @@ however, the probability of observing a property for each detector is replaced w
 
 by assuming a collapse from a definite state to a definite value Bell shows that
 
-a) the state cannot hold invisible variables (be definite)
-
-b) QM superposition or 'oscillating' states defy his inequality
+1. the state cannot hold invisible variables (be definite)
+2. QM superposition or 'oscillating' states defy his inequality
 
 Bell isn't wrong in assuming a definite state (that could also be a probability distribution)
 
