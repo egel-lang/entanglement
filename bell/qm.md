@@ -25,6 +25,8 @@ div.twocols p.break {
 
 # That QM Entanglement Thing
 
+_uninformed foolish speculations on QM_
+
 M.C.A. (Marco) Devillers
 
 ---
