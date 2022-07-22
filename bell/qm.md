@@ -109,6 +109,12 @@ a) the state cannot hold invisible variables (be definite)
 
 b) QM superposition or 'oscillating' states defy his inequality
 
+Bell isn't wrong in assuming a definite state (that could also be a probability distribution)
+
+Bell is wrong is assuming a definite state _results_ in a definite measurement
+
+to prove 'spooky action at a distance' show that changing $a$ measurements changes the distribution at $b$
+
 ----
 
 # CHSH inequality
