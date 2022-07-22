@@ -105,7 +105,7 @@ however, the probability of observing a property for each detector is replaced w
 
 by assuming a collapse from a definite state to a definite value Bell shows that QM superposition or 'oscillating' states defy his inequality
 
-Bell isn't wrong in assuming a definite state (that could also be a probability distribution)
+Bell isn't wrong in assuming a definite state (could encode a probability distribution)
 
 Bell is wrong in assuming a definite state _results_ in a definite measurement
 
