@@ -97,7 +97,7 @@ where $\rho(\lambda)$ is a probability density function
 
 _note_: Bell's argument is mostly indifferent to a superposition v. 'oscillation' debate
 
-However, the _probability_ of observing a property for each detector is replaced with 
+However, the probability of observing a property for each detector is replaced with 
 determinate values $A(\vec{a}, \lambda)$ and $B(\vec{b}, \lambda)$
 
 ----
