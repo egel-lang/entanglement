@@ -103,10 +103,7 @@ however, the probability of observing a property for each detector is replaced w
 
 # Going back to Bell (2)
 
-by assuming a collapse from a definite state to a definite value Bell shows that
-
-1. the state cannot hold invisible variables (be definite)
-2. QM superposition or 'oscillating' states defy his inequality
+by assuming a collapse from a definite state to a definite value Bell shows that QM superposition or 'oscillating' states defy his inequality
 
 Bell isn't wrong in assuming a definite state (that could also be a probability distribution)
 
