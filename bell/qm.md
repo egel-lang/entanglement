@@ -115,6 +115,8 @@ by assuming a collapse from a definite state to a definite value Bell shows that
 
 **C** prove 'spooky action at a distance': show changing $a$ changes the distribution at $b$
 
+note: **C** would imply faster-than-light communication, $b$ shouldn't be able to discern a change of angle at $a$
+
 ----
 
 ![](work.jpg) 
