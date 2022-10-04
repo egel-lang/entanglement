@@ -131,7 +131,10 @@ an analogous argument:
 
 however, for example, two related probability distributions don't need to be 'entangled' in the 'spooky action at a distance' sense
 
-correlation isn't causation
+**correlation isn't causation**
+
+Bell has proven that you cannot fix a bunch of oscillating objects to a determinate state to satisfy all requirements on the probability distributions
+
 
 ---
 
