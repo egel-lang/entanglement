@@ -138,6 +138,14 @@ Bell has proven that you cannot fix a bunch of oscillating objects to a determin
 
 ---
 
+# TL;DR
+
+<large>
+the only thing Bell says is that you cannot assign definite states to 'oscillating' objects
+</large>
+
+---
+
 ![](work.jpg) 
 
 # CHSH inequality
