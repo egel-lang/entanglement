@@ -123,14 +123,13 @@ note: **C** would imply faster-than-light communication, $b$ shouldn't be able t
 
 an analogous argument:
 
-assume a spinning coin, something 'oscillating' or in superposition
++ assume a spinning coin, something 'oscillating' or in superposition
 
-Bell says he cannot fix the coin to either heads or tails to satisfy the probability distribution
++ Bell says he cannot fix the coin to either heads or tails to satisfy the probability distribution
 
 **that's correct**
 
-however, for example, two related probability distributions don't need to be 'entangled' in the
-'spooky action at a distance' sense
+however, for example, two related probability distributions don't need to be 'entangled' in the 'spooky action at a distance' sense
 
 correlation isn't causation
 
